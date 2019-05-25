@@ -1,5 +1,4 @@
 from decimal import Decimal
-from pprint import pprint as pp
 import pandas as pd
 
 
@@ -143,7 +142,6 @@ payments = pd.DataFrame(test_schedule['payments'])
 print()
 print('Last 5 Months')
 print('-' * 30)
-# pp(final_month)
 print(payments.tail())
 print()
 
