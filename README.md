@@ -1,4 +1,4 @@
-# Amoritize
+# Amortize
 
 ## Getting Started
 - initialize virtual enironment `pipenv shell`
