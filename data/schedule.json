@@ -1,0 +1,275 @@
+[
+  {
+    "date": "2019-07-01",
+    "interest": 175.49,
+    "payment": 923.78,
+    "present_value": 31649.46,
+    "principal_paid": 748.29
+  },
+  {
+    "date": "2019-08-01",
+    "interest": 171.43,
+    "payment": 923.78,
+    "present_value": 30897.11,
+    "principal_paid": 752.35
+  },
+  {
+    "date": "2019-09-01",
+    "interest": 167.36,
+    "payment": 923.78,
+    "present_value": 30140.69,
+    "principal_paid": 756.42
+  },
+  {
+    "date": "2019-10-01",
+    "interest": 163.26,
+    "payment": 923.78,
+    "present_value": 29380.17,
+    "principal_paid": 760.52
+  },
+  {
+    "date": "2019-11-01",
+    "interest": 159.14,
+    "payment": 923.78,
+    "present_value": 28615.53,
+    "principal_paid": 764.64
+  },
+  {
+    "date": "2019-12-01",
+    "interest": 155.0,
+    "payment": 923.78,
+    "present_value": 27846.75,
+    "principal_paid": 768.78
+  },
+  {
+    "date": "2020-01-01",
+    "interest": 150.84,
+    "payment": 923.78,
+    "present_value": 27073.81,
+    "principal_paid": 772.94
+  },
+  {
+    "date": "2020-02-01",
+    "interest": 146.65,
+    "payment": 923.78,
+    "present_value": 26296.68,
+    "principal_paid": 777.13
+  },
+  {
+    "date": "2020-03-01",
+    "interest": 142.44,
+    "payment": 923.78,
+    "present_value": 25515.34,
+    "principal_paid": 781.34
+  },
+  {
+    "date": "2020-04-01",
+    "interest": 138.21,
+    "payment": 923.78,
+    "present_value": 24729.77,
+    "principal_paid": 785.57
+  },
+  {
+    "date": "2020-05-01",
+    "interest": 133.95,
+    "payment": 923.78,
+    "present_value": 23939.94,
+    "principal_paid": 789.83
+  },
+  {
+    "date": "2020-06-01",
+    "interest": 129.67,
+    "payment": 923.78,
+    "present_value": 23145.83,
+    "principal_paid": 794.11
+  },
+  {
+    "date": "2020-07-01",
+    "interest": 125.37,
+    "payment": 923.78,
+    "present_value": 22347.42,
+    "principal_paid": 798.41
+  },
+  {
+    "date": "2020-08-01",
+    "interest": 121.05,
+    "payment": 923.78,
+    "present_value": 21544.69,
+    "principal_paid": 802.73
+  },
+  {
+    "date": "2020-09-01",
+    "interest": 116.7,
+    "payment": 923.78,
+    "present_value": 20737.61,
+    "principal_paid": 807.08
+  },
+  {
+    "date": "2020-10-01",
+    "interest": 112.33,
+    "payment": 923.78,
+    "present_value": 19926.16,
+    "principal_paid": 811.45
+  },
+  {
+    "date": "2020-11-01",
+    "interest": 107.93,
+    "payment": 923.78,
+    "present_value": 19110.31,
+    "principal_paid": 815.85
+  },
+  {
+    "date": "2020-12-01",
+    "interest": 103.51,
+    "payment": 923.78,
+    "present_value": 18290.04,
+    "principal_paid": 820.27
+  },
+  {
+    "date": "2021-01-01",
+    "interest": 99.07,
+    "payment": 923.78,
+    "present_value": 17465.33,
+    "principal_paid": 824.71
+  },
+  {
+    "date": "2021-02-01",
+    "interest": 94.6,
+    "payment": 923.78,
+    "present_value": 16636.15,
+    "principal_paid": 829.18
+  },
+  {
+    "date": "2021-03-01",
+    "interest": 90.11,
+    "payment": 923.78,
+    "present_value": 15802.48,
+    "principal_paid": 833.67
+  },
+  {
+    "date": "2021-04-01",
+    "interest": 85.6,
+    "payment": 923.78,
+    "present_value": 14964.3,
+    "principal_paid": 838.18
+  },
+  {
+    "date": "2021-05-01",
+    "interest": 81.06,
+    "payment": 923.78,
+    "present_value": 14121.58,
+    "principal_paid": 842.72
+  },
+  {
+    "date": "2021-06-01",
+    "interest": 76.49,
+    "payment": 923.78,
+    "present_value": 13274.29,
+    "principal_paid": 847.29
+  },
+  {
+    "date": "2021-07-01",
+    "interest": 71.9,
+    "payment": 923.78,
+    "present_value": 12422.41,
+    "principal_paid": 851.88
+  },
+  {
+    "date": "2021-08-01",
+    "interest": 67.29,
+    "payment": 923.78,
+    "present_value": 11565.92,
+    "principal_paid": 856.49
+  },
+  {
+    "date": "2021-09-01",
+    "interest": 62.65,
+    "payment": 923.78,
+    "present_value": 10704.79,
+    "principal_paid": 861.13
+  },
+  {
+    "date": "2021-10-01",
+    "interest": 57.98,
+    "payment": 923.78,
+    "present_value": 9838.99,
+    "principal_paid": 865.8
+  },
+  {
+    "date": "2021-11-01",
+    "interest": 53.29,
+    "payment": 923.78,
+    "present_value": 8968.5,
+    "principal_paid": 870.49
+  },
+  {
+    "date": "2021-12-01",
+    "interest": 48.58,
+    "payment": 923.78,
+    "present_value": 8093.3,
+    "principal_paid": 875.2
+  },
+  {
+    "date": "2022-01-01",
+    "interest": 43.84,
+    "payment": 923.78,
+    "present_value": 7213.36,
+    "principal_paid": 879.94
+  },
+  {
+    "date": "2022-02-01",
+    "interest": 39.07,
+    "payment": 923.78,
+    "present_value": 6328.65,
+    "principal_paid": 884.71
+  },
+  {
+    "date": "2022-03-01",
+    "interest": 34.28,
+    "payment": 923.78,
+    "present_value": 5439.15,
+    "principal_paid": 889.5
+  },
+  {
+    "date": "2022-04-01",
+    "interest": 29.46,
+    "payment": 923.78,
+    "present_value": 4544.83,
+    "principal_paid": 894.32
+  },
+  {
+    "date": "2022-05-01",
+    "interest": 24.62,
+    "payment": 923.78,
+    "present_value": 3645.67,
+    "principal_paid": 899.16
+  },
+  {
+    "date": "2022-06-01",
+    "interest": 19.75,
+    "payment": 923.78,
+    "present_value": 2741.64,
+    "principal_paid": 904.03
+  },
+  {
+    "date": "2022-07-01",
+    "interest": 14.85,
+    "payment": 923.78,
+    "present_value": 1832.71,
+    "principal_paid": 908.93
+  },
+  {
+    "date": "2022-08-01",
+    "interest": 9.93,
+    "payment": 923.78,
+    "present_value": 918.86,
+    "principal_paid": 913.85
+  },
+  {
+    "date": "2022-09-01",
+    "interest": 4.98,
+    "payment": 923.84,
+    "present_value": 0.0,
+    "principal_paid": 918.86
+  }
+]
